@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+*.env
+secretsmanager-to-env
+
 # Test binary, built with `go test -c`
 *.test
 
