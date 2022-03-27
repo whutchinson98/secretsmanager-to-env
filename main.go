@@ -1,10 +1,9 @@
 /*
-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2022 NAME HERE willhutchinson2.0@gmail.com
 */
 package main
 
-import "secretsmanager-to-env/cmd"
+import "github.com/whutchinson98/secretsmanager-to-env/cmd"
 
 func main() {
 	cmd.Execute()
